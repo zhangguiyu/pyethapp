@@ -72,7 +72,7 @@ Python packages:
 
 .. code:: shell
 
-    $ apt-get install build-essential automake pkg-config libtool libffi-dev libgmp-dev
+    $ apt-get install build-essential automake pkg-config libtool libffi-dev libgmp-dev libssl-dev libpython-dev virtualenv
 
 Installation of Pyethapp and it's dependent Python packages via
 `PyPI <https://pypi.python.org/pypi/pyethapp>`__:
